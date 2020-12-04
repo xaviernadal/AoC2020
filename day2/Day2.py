@@ -1,4 +1,4 @@
-with open("AoC2020/day2/input.txt") as f:
+with open("day2/input.txt") as f:
     number = f.readlines()
 
 def part1():

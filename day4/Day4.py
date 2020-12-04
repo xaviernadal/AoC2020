@@ -1,6 +1,6 @@
 total = []
 passport = {}
-with open("AoC2020/day4/input.txt") as f:
+with open("day4/input.txt") as f:
     for line in f:
         if line != "\n":
             line = line.strip().split()

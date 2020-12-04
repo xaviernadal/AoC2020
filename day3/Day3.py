@@ -1,4 +1,4 @@
-with open("AoC2020/day3/input.txt") as f:
+with open("day3/input.txt") as f:
     lines = f.readlines()
 
 
